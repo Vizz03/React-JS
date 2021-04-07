@@ -1,0 +1,19 @@
+[
+    
+        {
+            "title": "The North Face Windbreaker Jacket",
+            "id": "jacket_1",
+            "description": "High quality windbreaker ",
+            "price" : "50.00",
+            "image" : "../images/northface.jpeg"
+        },
+
+        {
+            "title": "Another North Face Windbreaker Jacket",
+            "id": "jacket_2",
+            "description": "High quality  Jacket ",
+            "price" : "50.00",
+            "image" : "../images/northface.jpeg"
+        }
+    
+]
