@@ -10,7 +10,7 @@
 
 ### How to Load the App
 ```
-git clone https://github.com/oliver-gomes/react-native-bmi.git
+git clone https://github.com/Vizz03/react-native-bmi.git
 npm install
 npm start
 ```
