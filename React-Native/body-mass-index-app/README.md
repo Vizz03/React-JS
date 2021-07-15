@@ -3,7 +3,7 @@
 # BMI Calculator w/React Native
 
 
-## Design Overview- [More on my Behance](https://www.behance.net/gallery/75656331/BMI-Calculator-App)
+## Design Overview- 
 ![project image](https://oliver-gomes.github.io/images/github%20images/bmi-behance.png)
 ![project image](https://oliver-gomes.github.io/images/github%20images/bmi-prev.gif)
 
