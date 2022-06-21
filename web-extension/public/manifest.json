@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Learn Words",
+	"author": "Tinashe",
+	"version": "1.0.1",
+	"description": "Replace new tab screen with English word",
+	"icons": {
+		"16": "lwfav.ico",
+		"48": "lwfav.ico",
+		"128": "lwfav.ico"
+	},
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
